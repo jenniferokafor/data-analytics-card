@@ -13,22 +13,15 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 
-### The challenge
+### Screenshot 
 
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-
-### Screenshot to be added
-
-![](./screenshot.jpg)
+Desktop solution- (https://imgur.com/a/kS92Ot5)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/jenniferokafor/data-analytics-card)
+- Live Site URL: (https://619b26ec6dc90d2978170526--friendly-poitras-7f97b6.netlify.app/card%20component/)
 
-## My process
 
 ### Built with
 
@@ -38,7 +31,7 @@ Users should be able to:
 
 ### What I learned
 
-xxxxx 
+I learned how to use CSS Grid, as well as using the order property to specify how items should appear. 
 
 ## Author
 
