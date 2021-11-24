@@ -1,26 +1,16 @@
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
-
 ## Overview
 
 ### Screenshot 
 
-Desktop solution- (https://imgur.com/a/kS92Ot5)
+Desktop solution- (https://imgur.com/a/lAa592x)
+Mobile solution- (https://imgur.com/38RT6fQ)
 
 ### Links
 
 - Solution URL: (https://github.com/jenniferokafor/data-analytics-card)
-- Live Site URL: (https://619b26ec6dc90d2978170526--friendly-poitras-7f97b6.netlify.app/card%20component/)
+- Live Site URL: (https://619de9c16bfb3ec0591d502b--friendly-poitras-7f97b6.netlify.app/card%20component/) 
 
 
 ### Built with
